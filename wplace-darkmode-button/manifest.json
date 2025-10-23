@@ -17,5 +17,10 @@
     "128": "icons/icon.png"
   },
   "author": "Enea",
-  "homepage_url": "https://github.com/Frenxys"
+  "homepage_url": "https://github.com/Frenxys",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "wplace-darkmode-button@frenxys.github"
+    }
+  }
 }
