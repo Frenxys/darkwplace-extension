@@ -14,22 +14,28 @@ A lightweight browser extension that automatically forces the dark theme on wpla
 ---
 
 
+
 ## Installation
 
-After downloading or cloning this repository, you must use the `wplace-darkmode` folder to install the extension.
+You can install **either** of these extensions:
+
+- `wplace-darkmode`: auto-forces dark mode based on browser/system theme
+- `wplace-darkmode-button`: adds a button to toggle dark/light theme manually on wplace.live
 
 ### Chrome
 1. Download or clone this repository.
-2. Copy the folder `wplace-darkmode` to a location of your choice.
+2. Copy the folder `wplace-darkmode` **or** `wplace-darkmode-button` to a location of your choice.
 3. Go to `chrome://extensions/` in your browser.
 4. Enable **Developer mode** (top right).
-5. Click **Load unpacked** and select the `wplace-darkmode` folder.
+5. Click **Load unpacked** and select the folder you want (`wplace-darkmode` or `wplace-darkmode-button`).
 
 ### Firefox
 1. Download or clone this repository.
-2. Copy the folder `wplace-darkmode` to a location of your choice.
+2. Copy the folder `wplace-darkmode` **or** `wplace-darkmode-button` to a location of your choice.
 3. Go to `about:debugging#/runtime/this-firefox`.
-4. Click **Load Temporary Add-on** and select the `manifest.json` file inside the `wplace-darkmode` folder.
+4. Click **Load Temporary Add-on** and select the `manifest.json` file inside the folder you want (`wplace-darkmode` or `wplace-darkmode-button`).
+
+---
 
 ---
 
